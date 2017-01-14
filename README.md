@@ -1,6 +1,6 @@
 # Lab 5: To-Do List #
 
-## Due ##
+## Due Date ##
 Tuesday, March 7 at 11:59 PM
 
 ## Description ##
@@ -9,6 +9,7 @@ In this lab, you will build your own Utility app - a To-Do List. Once you're don
 Here's an example of what we are looking for: 
 
 ![alt text](/README-images/to-do-list.gif)
+
 
 ## Instructions ##
 For this project we will not give you any starter code, we want you implement the entire app yourself!
@@ -42,6 +43,9 @@ You **must** have the two classes described below (feel free to name them as you
 5. Any others that you think will impress us!
 
 
-## Grading ##
+## Grading and Submission ##
 
-This assignment is hand-graded! You must complete all requirements to obtain credit for this lab. Have fun!
+This assignment is hand-graded! You must complete all requirements to obtain credit for this lab. You may either get checked off by one of the TA's or instructors during lab to receive instant feedback, or you may submit your code to Github to be graded later. If you are submitting to Github, please include all project files in a zipped folder.
+
+Have fun!
+
